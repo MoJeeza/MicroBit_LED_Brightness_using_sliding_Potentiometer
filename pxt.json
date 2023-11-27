@@ -1,5 +1,5 @@
 {
-    "name": "potentiometer_with_LED",
+    "name": "potentiometer_with_LED_plot",
     "description": "",
     "dependencies": {
         "core": "*",
